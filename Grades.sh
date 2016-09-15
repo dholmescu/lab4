@@ -1,5 +1,6 @@
 #!/bin/bash
 #Daniel Holmes
+#This is an edit
 file=$1
 total=0
 while IFS= read line
